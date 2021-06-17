@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="botao_deletar">BotaoDeletar</string>
+    <string name="itensembranco">"algumas informações estão em branco!"</string>
+</resources>
